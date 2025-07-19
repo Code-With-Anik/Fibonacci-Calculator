@@ -12,7 +12,7 @@ A simple and responsive web app that calculates the factorial of a non-negative 
 
 ## 📸 Preview
 
-![Factorial Calculator Screenshot](preview.png) <!-- Replace with actual image path if available -->
+![Factorial Calculator Screenshot](Calculator.png) <!-- Replace with actual image path if available -->
 
 ## 🛠️ Technologies Used
 
