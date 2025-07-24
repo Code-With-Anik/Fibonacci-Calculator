@@ -2,7 +2,7 @@
 
 A simple and responsive web app that calculates the factorial of a non-negative number. Built using **HTML**, **CSS**, and **JavaScript**, this beginner-friendly project is great for learning basic DOM manipulation and user input validation.
 
-## 🚀 Features
+## ✨ Features
 
 - ✅ Instantly calculate the factorial of any non-negative number  
 - ✅ Input validation with helpful error messages  
@@ -13,6 +13,10 @@ A simple and responsive web app that calculates the factorial of a non-negative 
 ## 📸 Preview
 
 ![Factorial Calculator Screenshot](Calculator.png) <!-- Replace with actual image path if available -->
+
+## 🚀 Deployment
+This Calculator UI project is deployed using ChatGPT. You can access the deployed application by following this link: Calendar UI GitHub Pages [Live Demo]((https://github.com/Code-With-Anik/Fibonacci-Calculator))
+
 
 ## 🛠️ Technologies Used
 
