@@ -11,7 +11,7 @@ A simple and responsive web app that calculates the factorial of a non-negative 
 - ✅ Easy to understand code — perfect for beginners!
 
 ## 🚀 Deployment
-![Factorial Calculator Screenshot](Calculator.png)
+![Factorial Calculator Screenshot](Calculator.png) <br>
 This Calculator UI project is deployed using ChatGPT. You can access the deployed application by following this link: [Calendar UI GitHub Pages](https://github.com/Code-With-Anik/Fibonacci-Calculator)
 
 
